@@ -279,7 +279,7 @@ $judul_content = 'Contoh Halaman Kosong';
 
    
 
-2. Form Advance Awal : text (Teks Singkat)
+2. Form Advance Element : text (Teks Singkat)
 
    ```html
    <!-- Form Advance Group Text -->
@@ -297,7 +297,7 @@ $judul_content = 'Contoh Halaman Kosong';
 
    
 
-3. Form Advance Awal : number (Angka)
+3. Form Advance Element : number (Angka)
 
    ```html
    <!-- Form Advance Group Angka -->
@@ -315,7 +315,7 @@ $judul_content = 'Contoh Halaman Kosong';
 
    
 
-4. Form Advance Awal : email (Untuk eMail)
+4. Form Advance Element : email (Untuk eMail)
 
    ```html
    <!-- Form Advance Group Email -->
@@ -333,7 +333,7 @@ $judul_content = 'Contoh Halaman Kosong';
 
    
 
-5. Form Advance Awal : password (Untuk Sandi)
+5. Form Advance Element : password (Untuk Sandi)
 
    ```html
    <!-- Form Advance Group Sandi -->
@@ -351,7 +351,7 @@ $judul_content = 'Contoh Halaman Kosong';
 
    
 
-6. Form Advance Awal : select2 (List Pilihan dengan Pencarian)
+6. Form Advance Element : select2 (List Pilihan dengan Pencarian)
 
    HTML
 
@@ -387,7 +387,7 @@ $judul_content = 'Contoh Halaman Kosong';
 
    
 
-7. Form Advance Awal : datepicker (Untuk Tanggal)
+7. Form Advance Element : datepicker (Untuk Tanggal)
 
    HTML
 
